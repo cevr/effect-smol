@@ -36,9 +36,13 @@
     "@effect/bundle": "0.0.0"
   },
   "changesets": [
+    "add-scalar-show-operation-id",
+    "add-schema-bigdecimal",
+    "add-schema-datetime",
     "blue-dingos-greet",
     "breezy-meals-see",
     "chubby-parents-flow",
+    "consolidate-encoding",
     "dirty-lamps-trade",
     "fair-dryers-speak",
     "fix-openrouter-sparse-array",
@@ -48,8 +52,13 @@
     "fuzzy-camels-hunt",
     "odd-laws-draw",
     "old-brooms-cry",
+    "polite-tables-kneel",
     "port-react-hydration",
+    "schema-datetime-utc-from-string",
+    "schema-dollar-prefix",
     "shy-geckos-sniff",
-    "tall-mails-listen"
+    "struct-record",
+    "tall-mails-listen",
+    "wet-news-invent"
   ]
 }
